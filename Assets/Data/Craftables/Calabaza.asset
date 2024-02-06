@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Calabaza
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: f124f0f3a4f60fa45affdf0458bae996, type: 2}
+  RawIngredient: {fileID: 2142101136129328076, guid: 47f607bf96e8c454aa58dc4af6d9340a,
+    type: 3}
+  ChoppedIngredient: {fileID: 3769500642582792988, guid: 1b91472267f2e8a4abe070e79abc015a,
+    type: 3}
+  CookedIngredient: {fileID: 2142101136129328076, guid: 8fde45e3b7cacdb4e9f2e567fd13115e,
+    type: 3}
+  BurntIngredient: {fileID: 2142101136129328076, guid: bb473e77ed475654181ceb8325030a1e,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 3769500642582792988, guid: 79d02d41a1398324fa1a8c696f2208d6,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 3769500642582792988, guid: 15487a4802a747740877b451e49a7bd5,
+    type: 3}

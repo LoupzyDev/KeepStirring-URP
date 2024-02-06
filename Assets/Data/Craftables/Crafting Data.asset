@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fb9b17e163fcf4d966b8cf06fce797, type: 3}
+  m_Name: Crafting Data
+  m_EditorClassIdentifier: 
+  craftables:
+  - {fileID: 11400000, guid: 2858f67b8c54b1742a8c1d2c0e347ba7, type: 2}
+  - {fileID: 11400000, guid: a4c0e72e805de2b4b915844e2719f616, type: 2}
+  - {fileID: 11400000, guid: ba8c0b682c7551a48a36441d658af62f, type: 2}
+  - {fileID: 11400000, guid: cff37d073448a924faa28fa52278d77f, type: 2}
+  - {fileID: 11400000, guid: 2ffd0c68b4265ca4b9e4c96d4188c410, type: 2}
+  - {fileID: 11400000, guid: 5180a55a7df96334984aa9327270ffc8, type: 2}
+  - {fileID: 11400000, guid: d2ddb557de0d95a49bbb0e2cfc31e8fc, type: 2}
+  - {fileID: 11400000, guid: b74be41ba1e220e418aee396945e3a09, type: 2}
+  - {fileID: 11400000, guid: 74e32ab38d37ac042b82544507b72339, type: 2}
+  - {fileID: 11400000, guid: 7504e8b8c87b26649ad7e3302c8be8e6, type: 2}
+  - {fileID: 11400000, guid: e270ea252b5842140bafb9103b87fd9a, type: 2}

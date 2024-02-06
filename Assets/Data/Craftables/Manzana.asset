@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Manzana
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: ac0a8d164f1536447ae4aebf7fdd5ccb, type: 2}
+  RawIngredient: {fileID: 4194425616400366235, guid: 49d85a9c05ba38647b533b5ac5149ccc,
+    type: 3}
+  ChoppedIngredient: {fileID: 4051791470790492520, guid: 8ce4b6d329bebe140baf1a78440ac3b4,
+    type: 3}
+  CookedIngredient: {fileID: 4194425616400366235, guid: 8b0093310811a4f4d8b5ebf6c1bf6aa3,
+    type: 3}
+  BurntIngredient: {fileID: 4194425616400366235, guid: 05e57153be383fe469bba5f6b7d15347,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 4051791470790492520, guid: 714f5dfd76559414a9e90a6e390536a2,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 4051791470790492520, guid: 10150eb082d25234d9df34b80b72124b,
+    type: 3}

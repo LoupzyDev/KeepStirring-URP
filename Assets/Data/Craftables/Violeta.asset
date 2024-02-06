@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Violeta
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: ca4d6633f6ecb984196c61afb9bd8a64, type: 2}
+  RawIngredient: {fileID: 5557597918989847195, guid: 1651dbcef1d0faa4ab466b4621f81a64,
+    type: 3}
+  ChoppedIngredient: {fileID: 423970827931663839, guid: de525f6ed1341b142a507e319c5d657e,
+    type: 3}
+  CookedIngredient: {fileID: 5557597918989847195, guid: 0bd21031472c1cb42a7f3f26fa11909e,
+    type: 3}
+  BurntIngredient: {fileID: 5557597918989847195, guid: a73d44560f2eee14db064d5daca0e926,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 423970827931663839, guid: 3da015dec58a0aa49a75d96b49048026,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 423970827931663839, guid: a6c7df4540d7e934c80507464d671a9f,
+    type: 3}

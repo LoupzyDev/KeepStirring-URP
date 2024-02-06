@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Girasol
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: ae47c111c6cc9104685661080b51e6d0, type: 2}
+  RawIngredient: {fileID: 4482195249094450591, guid: f9f9388b0a62a0d4f8629eb5103871df,
+    type: 3}
+  ChoppedIngredient: {fileID: 2071012298122067526, guid: c3ac2408c5a8416438ac263a4af09057,
+    type: 3}
+  CookedIngredient: {fileID: 4482195249094450591, guid: e86acdbc958d1c844985dae481a4b980,
+    type: 3}
+  BurntIngredient: {fileID: 4482195249094450591, guid: 13cd0032f3385c64783b1d73db2dbf23,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 2071012298122067526, guid: 81e0fd8e0f8da4542936182ce66686e9,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 2071012298122067526, guid: 3f150bb14b8ae1d47acdfe845a08d8dc,
+    type: 3}

@@ -1,0 +1,24 @@
+.row-image {
+}
+
+.row-text {
+}
+
+.row-text-amount {
+    -unity-text-align: middle-left;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-definition: url('project://database/Assets/Yuai/ShadowsIntoLight-Regular%20SDF.asset?fileID=11400000&guid=6e39cd580472a5948898ed0cd31f040e&type=2#ShadowsIntoLight-Regular SDF');
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: flex-start;
+    font-size: 72px;
+    height: 65px;
+}
+
+.row {
+}
+
+.state-image {
+    width: 40px;
+}

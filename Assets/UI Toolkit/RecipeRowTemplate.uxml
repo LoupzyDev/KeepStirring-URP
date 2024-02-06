@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/recipe.uss?fileID=7433441132597879392&amp;guid=7046aae93a3266144acb624d864be6c7&amp;type=3#recipe" />
+    <ui:VisualElement name="recipe-row" class="row" style="flex-direction: row; justify-content: flex-start;">
+        <ui:VisualElement name="row-image" class="row-image" style="min-width: 80px;" />
+        <ui:VisualElement name="chopped-image" class="state-image" />
+        <ui:VisualElement name="cooked-image" class="state-image" />
+        <ui:Label text="x" display-tooltip-when-elided="false" name="x" enable-rich-text="true" class="row-text" style="justify-content: flex-end; align-items: stretch; -unity-text-align: lower-left; padding-top: 10px; padding-bottom: 10px; -unity-font: none; font-size: 32px; -unity-font-definition: url(&apos;project://database/Assets/Yuai/ShadowsIntoLight-Regular%20SDF.asset?fileID=11400000&amp;guid=6e39cd580472a5948898ed0cd31f040e&amp;type=2#ShadowsIntoLight-Regular SDF&apos;); margin-left: 25px;" />
+        <ui:Label text="0" display-tooltip-when-elided="false" name="amount" class="row-text-amount" />
+        <ui:Label text="Label" display-tooltip-when-elided="false" name="ingredient" style="display: none;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Pata
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: c325017ed59c6444a863c60b4c814a4f, type: 2}
+  RawIngredient: {fileID: 3468028295748569223, guid: 72f1af5d488c85b4abad13d021d05838,
+    type: 3}
+  ChoppedIngredient: {fileID: 2095435439834989735, guid: 7db04ffa36ae9c94cadc2eacd1c3409d,
+    type: 3}
+  CookedIngredient: {fileID: 3468028295748569223, guid: d6dddbdac32f17b42b6eab01d9feaec2,
+    type: 3}
+  BurntIngredient: {fileID: 3468028295748569223, guid: ceb24c515e13cf544a9c3e4659cc83fe,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 2095435439834989735, guid: f807b15afd135f64dbb06abe8fa2763d,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 2095435439834989735, guid: dabe1285cdbe473459902e73d1b1a069,
+    type: 3}

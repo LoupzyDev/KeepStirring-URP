@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Corazon
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: b558d8cd95ae5834b84034f030adef42, type: 2}
+  RawIngredient: {fileID: 6988562928837644136, guid: 9fb4afe922a1f7147b35735ab19d7462,
+    type: 3}
+  ChoppedIngredient: {fileID: 3334638293615248587, guid: 911bdd39a8444df44bb87fb80efcf649,
+    type: 3}
+  CookedIngredient: {fileID: 6988562928837644136, guid: 929bccbec64ac4d41a6ba661d1cee3d4,
+    type: 3}
+  BurntIngredient: {fileID: 6988562928837644136, guid: 4fb9fea8a564468499bce741eb610f73,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 3334638293615248587, guid: 26510503290e70c4eb5996369559aaf1,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 3334638293615248587, guid: f7fc93a8609b08145a7fc99927253dbe,
+    type: 3}

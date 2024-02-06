@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Pescado
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: 031c35a1ed920754a894c14caaf0fe3e, type: 2}
+  RawIngredient: {fileID: 2237361530790607314, guid: 6a855b7942deeaf4c8e054dd0aab2086,
+    type: 3}
+  ChoppedIngredient: {fileID: 6104598087425154368, guid: 50a256e17bf2fdd4fb4eeda2706398b6,
+    type: 3}
+  CookedIngredient: {fileID: 2237361530790607314, guid: 715ad18efc659fc47b322942a9748b39,
+    type: 3}
+  BurntIngredient: {fileID: 2237361530790607314, guid: a9ad7b9f95875d7458e4f609eb2b8f42,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 6104598087425154368, guid: f04884d22c999f34d82d4ceeb46551a8,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 6104598087425154368, guid: c188ca89a4293234c9b744c1f2ca390e,
+    type: 3}

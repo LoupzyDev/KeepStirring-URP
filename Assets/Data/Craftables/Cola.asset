@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Cola
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: 4ab3353cf8639c5498fa92c066da7487, type: 2}
+  RawIngredient: {fileID: 2918069729520640231, guid: 0b923fabc25b1544c8e5db93e9cbd2bc,
+    type: 3}
+  ChoppedIngredient: {fileID: 1925605103116336013, guid: 8fa71d3e11f96984693e50b9c99350d1,
+    type: 3}
+  CookedIngredient: {fileID: 2918069729520640231, guid: 73a24bdcb40eea44ba50a43cc0cd8ab9,
+    type: 3}
+  BurntIngredient: {fileID: 2918069729520640231, guid: 4e445baf45c6c504f881f10042debd8c,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 1925605103116336013, guid: 18d7dd29cbcfa3244a964c75cd63453b,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 1925605103116336013, guid: 1fd54ff079599db459f7c636ddd0128c,
+    type: 3}

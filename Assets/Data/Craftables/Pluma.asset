@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fa7b18937585940a9d71d6749f83a6, type: 3}
+  m_Name: Pluma
+  m_EditorClassIdentifier: 
+  Primitive: {fileID: 11400000, guid: 48a83416f8919bb42baf71f031b6d469, type: 2}
+  RawIngredient: {fileID: 7459274790527671575, guid: 8e0f82fd2cb021344b64ca0df5866655,
+    type: 3}
+  ChoppedIngredient: {fileID: 6832123325247401115, guid: 99ab248fcc653e549a4c90568fcf81e1,
+    type: 3}
+  CookedIngredient: {fileID: 7459274790527671575, guid: 8624203316ab9f04db813a60e885104f,
+    type: 3}
+  BurntIngredient: {fileID: 7459274790527671575, guid: dde108736db8f724cbf337295f6dd5cb,
+    type: 3}
+  ChoppedCookedIngredient: {fileID: 6832123325247401115, guid: 15081952c1f1e8f4ab3bba65ef413ac5,
+    type: 3}
+  ChoppedBurntIngredient: {fileID: 6832123325247401115, guid: a32b48ff8dc0bb841ba419f70aff72f0,
+    type: 3}
